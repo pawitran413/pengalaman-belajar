@@ -1,4 +1,4 @@
-# Tambahan dari branch dev
+# Tambahan dari branch Main
 # Pengalaman Belajar di Dicoding
 
 **14 Juni 2021**<br>
